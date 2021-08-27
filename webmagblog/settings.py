@@ -29,7 +29,7 @@ SECRET_KEY = 'a%jladi2qqpsj5*g*ewzs#b9yokz_7_b(1$ma!s7pfsecoz&pt'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','aznewsc.herokuapp.com/']
 
 # Application definition
 
